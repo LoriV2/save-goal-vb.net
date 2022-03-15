@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "save goal vb.net", "save goal vb.net\save goal vb.net.vbproj", "{360E5F1B-C59B-462B-947D-7DED9270DB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360E5F1B-C59B-462B-947D-7DED9270DB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360E5F1B-C59B-462B-947D-7DED9270DB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360E5F1B-C59B-462B-947D-7DED9270DB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360E5F1B-C59B-462B-947D-7DED9270DB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADDA2E0-7DE8-41ED-88D7-A145323CB1BB}
+	EndGlobalSection
+EndGlobal
